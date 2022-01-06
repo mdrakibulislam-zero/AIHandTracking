@@ -1,5 +1,5 @@
 ## AI Hand Tracking:
-This is a simple hand tracking program based on Artificial Intelligence. It's able to detect our both hands.
+This is a simple hand tracking program based on Artificial Intelligence which made with Python. It's able to detect our both hands.
 
 
 ## Outcome:
